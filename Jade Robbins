@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- <title>HTML Intro</title-->
+        <title>Jade Robbins</title>
+        <meta name="description" content="This is our class introduction to html.">
+        <meta name="keywords"content="Html, code,loyola, internet tech, intrroduction, computer, computing">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    </head>
+    <body>
+        <header>
+        <H1>Jade Robbins</H1>
+
+    
+    </header>
+    <h2>About</h2>
+        <P>Jade Robbins is a multidisciplinary artist raised in a small town in Colorado. Inspired by folk and blues, Jade writes and performs eclectic indie music. She is currently working on her second independently produced album in New Orleans. Through her writing, she aims to express sensitivity and honesty. Her listeners can expect an earnest shot at radical openness from Jade's performances and released music.</P>
+
+<section id="released">
+<h2>Released Music</h2>
+<p>Jade has a few singles and an album currently released on all platforms. </p>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/55CAUwx0rDEeagAEGnRfe0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<embed><embed>
+
+</section>
+
+<hr>
+
+<section id="upcoming">
+<h2>Upcoming Projects</h2>
+<div>
+<p>Jade Robbins will be releasing her second album "Heart Tower" in October of 2023. This record explores themes of solitude, coming of age, and letting go.</p>
+
+</div>
+<h3>Album Cover</h3>
+<img src="jaddrama2.jpg"width=390 height="600"></img>
+</section>
+<H2>Thank You!</H2>
+<footer>
+    <p>&copy; Jade Robbins 2023. All Rights Reserved.</p>
+</footer>
+        
+    </body>
+</html>
+
